@@ -2,7 +2,6 @@ const Discord = require("discord.js");
 const Client = new Discord.Client();
 const config = require ("./config.json");
 const token = process.env.token ;
-NjI1Mzg4MzE3NjY3NjIyOTcy.XlPvvg.iy4RF25ZJCCin-SzCJVFqnxffUk
 
 Client.on("ready", () => {
     console.log(`${Client.user.username} foi iniciado com sucesso, com ${Client.users.size} usuários, em ${Client.channels.size} canais, em ${Client.guilds.size} servidores.`);

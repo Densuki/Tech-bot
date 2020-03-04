@@ -4,7 +4,7 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "Start": "node .",
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
